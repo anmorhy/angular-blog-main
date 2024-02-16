@@ -7,11 +7,11 @@
 <p align="center">
   <a href="">🔗 Acesse o Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  
-  <a href="# 🚀 Tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="# ⚙️ Ferramentas">⚙️ Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="# 💬 Informações do conteúdo">💬 Informações do conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="# 🎓 Instrutor">🎓 Instrutor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="# 📜 License">📝 License</a>
+  <a href="#-Tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Ferramentas">⚙️ Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Informações do conteúdo">💬 Informações do conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Instrutor">🎓 Instrutor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-License">📝 License</a>
 </p>
 
 ## 🚀 Tecnologias
