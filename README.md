@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="src\assets\desenvolvimento.webp">
+    <img width="300" src="src\assets\desenvolvimento.webp">
 </p>
 
 ## Criando um Blog | Digital innovation one 
@@ -8,7 +8,7 @@
   <a href="">🔗 Acesse o Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Ferramentas">⚙️ Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Informações">💬 Informações do conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Informações do conteúdo">💬 Informações do conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Instrutor">🎓 Instrutor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-License">📝 License</a>
 </p>
